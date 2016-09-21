@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DC12B4AD1D9293A000E29563"
-               BuildableName = "test.app"
-               BlueprintName = "test"
-               ReferencedContainer = "container:test.xcodeproj">
+               BlueprintIdentifier = "DC12B27E1D926AB000E29563"
+               BuildableName = "Scrollview.app"
+               BlueprintName = "Scrollview"
+               ReferencedContainer = "container:Scrollview.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DC12B4BE1D9293A000E29563"
-               BuildableName = "testTests.xctest"
-               BlueprintName = "testTests"
-               ReferencedContainer = "container:test.xcodeproj">
+               BlueprintIdentifier = "DC12B2941D926AB000E29563"
+               BuildableName = "ScrollviewTests.xctest"
+               BlueprintName = "ScrollviewTests"
+               ReferencedContainer = "container:Scrollview.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DC12B4C91D9293A000E29563"
-               BuildableName = "testUITests.xctest"
-               BlueprintName = "testUITests"
-               ReferencedContainer = "container:test.xcodeproj">
+               BlueprintIdentifier = "DC12B29F1D926AB000E29563"
+               BuildableName = "ScrollviewUITests.xctest"
+               BlueprintName = "ScrollviewUITests"
+               ReferencedContainer = "container:Scrollview.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DC12B4AD1D9293A000E29563"
-            BuildableName = "test.app"
-            BlueprintName = "test"
-            ReferencedContainer = "container:test.xcodeproj">
+            BlueprintIdentifier = "DC12B27E1D926AB000E29563"
+            BuildableName = "Scrollview.app"
+            BlueprintName = "Scrollview"
+            ReferencedContainer = "container:Scrollview.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DC12B4AD1D9293A000E29563"
-            BuildableName = "test.app"
-            BlueprintName = "test"
-            ReferencedContainer = "container:test.xcodeproj">
+            BlueprintIdentifier = "DC12B27E1D926AB000E29563"
+            BuildableName = "Scrollview.app"
+            BlueprintName = "Scrollview"
+            ReferencedContainer = "container:Scrollview.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DC12B4AD1D9293A000E29563"
-            BuildableName = "test.app"
-            BlueprintName = "test"
-            ReferencedContainer = "container:test.xcodeproj">
+            BlueprintIdentifier = "DC12B27E1D926AB000E29563"
+            BuildableName = "Scrollview.app"
+            BlueprintName = "Scrollview"
+            ReferencedContainer = "container:Scrollview.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
